@@ -24,3 +24,6 @@ The deployment procedure is as follows:
 17.Select the subscription containing the storage account for which you enabled static website hosting. Next, select the storage account when prompted. 18.Visual Studio Code will now upload your files to your web endpoint, and show the success status bar. Launch the website to view it in Azure.
 
 The deployement of a static website to Azure is successfully completed.
+
+primary link url is :
+https://programmersurveyform.z13.web.core.windows.net/
